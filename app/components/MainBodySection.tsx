@@ -1,6 +1,5 @@
 "use client";
 
-
 import { ReactNode } from "react";
 import { Header } from "@/app/components/Header";
 import { Loader } from "lucide-react";
