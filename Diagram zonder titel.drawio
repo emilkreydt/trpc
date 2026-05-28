@@ -1,0 +1,34 @@
+<mxfile host="app.diagrams.net">
+  <diagram name="Pagina-1" id="Zl23nXLp2tVbusxqvGhg">
+    <mxGraphModel dx="4358" dy="1061" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1169" pageHeight="827" math="0" shadow="0">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
+        <mxCell id="7WBjlGjyXMQ0tnvq0caq-3" edge="1" parent="1" source="7WBjlGjyXMQ0tnvq0caq-1" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" target="7WBjlGjyXMQ0tnvq0caq-2">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="7WBjlGjyXMQ0tnvq0caq-1" parent="1" style="rounded=0;whiteSpace=wrap;html=1;" value="START" vertex="1">
+          <mxGeometry height="60" width="120" x="524" y="40" as="geometry" />
+        </mxCell>
+        <mxCell id="7WBjlGjyXMQ0tnvq0caq-2" parent="1" style="rhombus;whiteSpace=wrap;html=1;" value="Gebruikerstype" vertex="1">
+          <mxGeometry height="100" width="110" x="530" y="160" as="geometry" />
+        </mxCell>
+        <mxCell id="7WBjlGjyXMQ0tnvq0caq-4" parent="1" style="rounded=0;whiteSpace=wrap;html=1;" value="Klant" vertex="1">
+          <mxGeometry height="60" width="120" x="-1813" y="320" as="geometry" />
+        </mxCell>
+        <mxCell id="7WBjlGjyXMQ0tnvq0caq-5" parent="1" style="rounded=0;whiteSpace=wrap;html=1;" value="Winkelmedewerker" vertex="1">
+          <mxGeometry height="60" width="120" x="-644" y="320" as="geometry" />
+        </mxCell>
+        <mxCell id="7WBjlGjyXMQ0tnvq0caq-6" parent="1" style="rounded=0;whiteSpace=wrap;html=1;" value="Magazijnmedewerker" vertex="1">
+          <mxGeometry height="60" width="120" x="870" y="320" as="geometry" />
+        </mxCell>
+        <mxCell id="7WBjlGjyXMQ0tnvq0caq-7" parent="1" style="rounded=0;whiteSpace=wrap;html=1;" value="Technieker" vertex="1">
+          <mxGeometry height="60" width="120" x="1980" y="320" as="geometry" />
+        </mxCell>
+        <mxCell id="7WBjlGjyXMQ0tnvq0caq-8" parent="1" style="rounded=0;whiteSpace=wrap;html=1;" value="Management" vertex="1">
+          <mxGeometry height="60" width="120" x="3240" y="320" as="geometry" />
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+</mxfile>
